@@ -11,3 +11,6 @@ class Book:
 
 book1 = Book("Python Workshop", "XYZ", "123456789", 500)
 book1.display_info()
+
+book2 = Book("Advanced Python Workshop", "ABC", "0908456789", 100)
+book2.display_info()
